@@ -3,7 +3,7 @@
 #### Upcoming open source projects 👨‍💻
 ✨ lightSlider 2.0 - Responsive content slider 
 
-✨ Create typescript app - Set up a modern typescript library by running one command.
+✨ Create typescript library - Set up a modern typescript libraries by running one command.
 
 ✨ lightGallery desktop - Modern image viewer for Mac, Windows and Linux.
 
